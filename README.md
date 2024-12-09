@@ -13,7 +13,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=munzertopu&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=munzertopu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)<br/>
-<img src="https://ghchart.rshah.org/munzertopu" alt="Munzer's Github chart" /></p>
+<img src="https://ghchart.rshah.org/munzertopu" alt="Munzer's Github chart" style="width:100%; height:auto;"/></p>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=munzertopu&theme=dark&no-frame=false&no-bg=true&margin-w=4)
