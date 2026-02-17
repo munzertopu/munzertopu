@@ -1,8 +1,22 @@
 <h1 align="center">Hi 👋, I'm Munzer Al Morshed</h1>
-<h3 align="center">A passionate Software Engineer and Frontend Specialist, creating high-performance, user-centric web applications and dynamic data visualizations.</h3>
+<h3 align="center">Senior Frontend Engineer | Tech Lead | Building scalable products, complex dashboards, and data-driven systems</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Data visualization projects, custom dashboards, and improving frontend performance using React, Redux, and Recharts.<br><br>👯 I’m looking to collaborate on Innovative frontend development projects that involve complex UI/UX challenges, data visualization, and performance optimization, especially with React. I'm also interested in collaborating with startups, particularly those looking to bring new, cutting-edge ideas to life through great frontend experiences.<br><br>🤝 I’m looking for help with Exploring new opportunities that allow me to relocate to a global tech hub and work on large-scale frontend applications.<br><br>🌱 I’m currently learning Node.js to expand my full-stack development skills and to better integrate frontend solutions with backend systems.<br><br>💬 Ask me about React.js, Redux, Data Visualization, Custom Dashboards, UI/UX Design, and Frontend Performance Optimization.<br><br>⚡ Fun fact : I’m an ambivert with a great sense of humor, balancing my quiet and social sides with lots of laughs. Plus, I have a soft spot for Batman, Harry Potter, Lord of the Rings, Breaking Bad, and anime!
+🔭 I have 6+ years of experience building high-performance frontend applications using React, TypeScript, and modern state management. I specialize in complex data visualization, custom dashboards, real-time monitoring systems, and performance-focused UI architecture.<br><br>
+
+🚀 I currently work as a Tech Lead, where I guide the engineering team while remaining hands-on in development. I define technical direction, design scalable architecture, review code, plan sprints, and translate business requirements into clean, maintainable solutions.<br><br>
+
+📊 I design and build advanced dashboards using tools like Recharts, Chart.js, and real-time data pipelines. I focus on clarity, usability, and system performance when handling large datasets and analytics-heavy applications.<br><br>
+
+🌱 I am expanding into backend engineering with Node.js, Express, authentication systems, and database design to take full ownership of application architecture end to end.<br><br>
+
+👯 I’m open to collaborating on advanced frontend projects involving complex UI systems, data visualization, scalable dashboard platforms, and performance-critical applications, especially in fast-growing startups and product-focused teams.<br><br>
+
+🤝 I’m actively exploring opportunities to work on large-scale frontend systems within global engineering teams, where I can contribute as both a senior individual contributor and a technical leader.<br><br>
+
+💬 Ask me about React architecture, data visualization systems, dashboard engineering, performance optimization, API integration, system design, and engineering leadership.<br><br>
+
+⚡ I enjoy leading engineers, improving development standards, and shipping production-grade code consistently.
 
 
 ## 🌐 Links:
