@@ -1,22 +1,25 @@
 <h1 align="center">Hi 👋, I'm Munzer Al Morshed</h1>
-<h3 align="center">Senior Frontend Engineer | Tech Lead | Building scalable products, complex dashboards, and data-driven systems</h3>
+<h3 align="center">Senior Software Engineer | Full Stack JavaScript | Building AI, Enterprise, and Data-Driven Applications </h3>
 
-# 💫 About Me:
-🔭 I have 6+ years of experience building high-performance frontend applications using React, TypeScript, and modern state management. I specialize in complex data visualization, custom dashboards, real-time monitoring systems, and performance-focused UI architecture.<br><br>
+# 💫 About Me
 
-🚀 I currently work as a Tech Lead, where I guide the engineering team while remaining hands-on in development. I define technical direction, design scalable architecture, review code, plan sprints, and translate business requirements into clean, maintainable solutions.<br><br>
+🔭 I have 7+ years of experience building scalable web applications across frontend and backend technologies. I work with React, Vue.js, Next.js, Node.js, TypeScript, and modern JavaScript ecosystems, with a strong focus on performance, maintainability, and user experience.
 
-📊 I design and build advanced dashboards using tools like Recharts, Chart.js, and real-time data pipelines. I focus on clarity, usability, and system performance when handling large datasets and analytics-heavy applications.<br><br>
+🚀 I currently work as a Software Engineer at WSD, where I build enterprise financial technology solutions across both Vue.js and Node.js within the Structured Products Intelligence (SPi) team.
 
-🌱 I am expanding into backend engineering with Node.js, Express, authentication systems, and database design to take full ownership of application architecture end to end.<br><br>
+🏗️ Throughout my career, I've built AI-powered platforms, healthcare systems, enterprise software, workflow tools, and real-time dashboards that support business-critical operations.
 
-👯 I’m open to collaborating on advanced frontend projects involving complex UI systems, data visualization, scalable dashboard platforms, and performance-critical applications, especially in fast-growing startups and product-focused teams.<br><br>
+📊 I specialize in complex data visualization using Plotly.js, Recharts, and AG Grid, turning large datasets into clear and actionable user experiences.
 
-🤝 I’m actively exploring opportunities to work on large-scale frontend systems within global engineering teams, where I can contribute as both a senior individual contributor and a technical leader.<br><br>
+👨‍💼 Beyond engineering, I've led development teams, mentored engineers, and driven technical decisions from architecture through delivery.
 
-💬 Ask me about React architecture, data visualization systems, dashboard engineering, performance optimization, API integration, system design, and engineering leadership.<br><br>
+🌱 I'm passionate about full stack JavaScript development, scalable system architecture, cloud technologies, and AI-powered products.
 
-⚡ I enjoy leading engineers, improving development standards, and shipping production-grade code consistently.
+👯 I'm open to collaborating on enterprise applications, AI platforms, developer tools, and modern web applications where engineering quality and product impact matter.
+
+💬 Ask me about React, Vue.js, Node.js, frontend architecture, REST APIs, data visualization, performance optimization, and scalable application development.
+
+⚡ I enjoy solving complex engineering challenges, improving development standards, mentoring engineers, and shipping production-ready software with measurable business impact.
 
 
 ## 🌐 Links:
